@@ -8,7 +8,7 @@ export const BottomText = ({sendButtOnPress, galleryImageonPress}) => {
       style={{
         display: 'flex',
         flexDirection: 'row',
-        zIndex: 40,
+        zIndex: 30,
         marginLeft: 12,
         marginBottom: 8,
       }}>
